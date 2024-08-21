@@ -91,8 +91,8 @@
         <li><a href="index.php" class="page-scroll">Services</a></li>
         <li><a href="index.php" class="page-scroll">Gallery</a></li>
         <li><a href="index.php" class="page-scroll">Testimonials</a></li>
-        <li><a href="ngrass.php" class="page-scroll">Natural Grass</a></li>
-        <li><a href="vgrass.php" class="page-scroll">Vetiver Grass</a></li>
+        <li><a href="ngrass.php" class="page-scroll">NGrass</a></li>
+        <li><a href="vgrass.php" class="page-scroll">VGrass</a></li>
         <li><a href="policy.php" class="page-scroll">Privacy Policy</a></li>
         <li><a href="#contact" class="page-scroll">Contact</a></li>
       </ul>
