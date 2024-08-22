@@ -114,7 +114,7 @@
           </div>
             <!-- <p>Understanding pain management and its impact on overall well-being.<br>
               Explore strategies to manage pain effectively and live comfortably.</p> -->
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="text-transform:none; border-radius:10px;">Consult Now</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="text-transform:none; border-radius:10px;">Consult Now</a>
               </div>
         </div>
       </div>
@@ -132,14 +132,14 @@
         <hr>
           <p>Pain is a distressing feeling that can be sharp or dull, and can be felt in one area of the body or all over. It can be caused by intense or damaging stimuli, such as an injury, disease, or inflammation. Pain medicines can work in a variety of ways to relieve pain, including:</p>
           <ul>
-            <li><strong>Changing pain messages in the brain:</strong> Opioid medicines change the way the brain processes pain messages, which can make them addictive. <a href="tel:+18557616800">Know More</a></li><br>
-            <li><strong>Turning down pain signals:</strong> Some medications reduce the volume of pain signals that the nervous system sends through the body. <a href="tel:+18557616800">Know More</a></li><br>
-            <li><strong>Changing brain chemistry:</strong> Low doses of antidepressants can help with chronic low back pain by changing the levels of certain chemicals in the brain, which can change how the brain notices pain. <a href="tel:+18557616800">Know More</a></li><br>
-            <!-- <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18557616800">Learn More</a></li><br>
-            <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18557616800">Learn More</a></li><br>
-            <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18557616800">Learn More</a></li> -->
+            <li><strong>Changing pain messages in the brain:</strong> Opioid medicines change the way the brain processes pain messages, which can make them addictive. <a href="tel:+18084284752">Know More</a></li><br>
+            <li><strong>Turning down pain signals:</strong> Some medications reduce the volume of pain signals that the nervous system sends through the body. <a href="tel:+18084284752">Know More</a></li><br>
+            <li><strong>Changing brain chemistry:</strong> Low doses of antidepressants can help with chronic low back pain by changing the levels of certain chemicals in the brain, which can change how the brain notices pain. <a href="tel:+18084284752">Know More</a></li><br>
+            <!-- <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18084284752">Learn More</a></li><br>
+            <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18084284752">Learn More</a></li><br>
+            <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18084284752">Learn More</a></li> -->
             <div class="button-container" style="margin-top: 20px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
             </div>
           </ul>
         </div>
@@ -153,11 +153,11 @@
 
               
             <!-- <div class="button-container" style="margin-top: 20px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
             </div> -->
         </div>
         <div class="button-container" style="margin-top: 42px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Consult Now</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Consult Now</a>
             </div>
       </div>
     </div>
@@ -172,7 +172,7 @@
       <p>Managing pain is essential for improving your quality of life. Here are some strategies to help you effectively manage pain and maintain well-being:</p>
     </div>
     <div class="button-container" style="margin-top: 20px; margin-bottom: 30px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Learn More</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Learn More</a>
             </div>
     <div class="row">
       <div class="col-sm-12">
@@ -185,14 +185,14 @@
             <div class="content">
               <!-- <h4>Reasons for Restrictions</h4> -->
               <ul>
-                <li><strong>Connect with Others:</strong> Social connections are vital for emotional well-being. Spend time with loved ones, talk about your feelings, and don't hesitate to seek support when needed. <a href="tel:+18557616800">Learn More</a></li><br>
-                <li><strong>Engage in Physical Therapy:</strong> Physical therapy can help alleviate pain and improve mobility. Exercises tailored to your condition can strengthen muscles and reduce discomfort. <a href="tel:+18557616800">Learn More</a></li><br>
-                <li><strong>Adopt a Healthy Lifestyle:</strong> A balanced diet and regular exercise contribute to overall health and can help manage chronic pain. <a href="tel:+18557616800">Learn More</a></li><br>
-                <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18557616800">Learn More</a></li><br>
-                <!-- <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18557616800">Learn More</a></li><br> -->
-                <!-- <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18557616800">Learn More</a></li> -->
+                <li><strong>Connect with Others:</strong> Social connections are vital for emotional well-being. Spend time with loved ones, talk about your feelings, and don't hesitate to seek support when needed. <a href="tel:+18084284752">Learn More</a></li><br>
+                <li><strong>Engage in Physical Therapy:</strong> Physical therapy can help alleviate pain and improve mobility. Exercises tailored to your condition can strengthen muscles and reduce discomfort. <a href="tel:+18084284752">Learn More</a></li><br>
+                <li><strong>Adopt a Healthy Lifestyle:</strong> A balanced diet and regular exercise contribute to overall health and can help manage chronic pain. <a href="tel:+18084284752">Learn More</a></li><br>
+                <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18084284752">Learn More</a></li><br>
+                <!-- <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18084284752">Learn More</a></li><br> -->
+                <!-- <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18084284752">Learn More</a></li> -->
                 <div class="button-container" style="margin-top: 20px; text-align:center;">
-                  <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">More Tips</a>
+                  <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">More Tips</a>
                 </div>
               </ul>
             </div>
@@ -218,7 +218,7 @@
         </div>
         <div class="service-desc">
           <h3>Drowsiness and hallucination</h3>
-          <p>Drowsiness and fatigue are common side effects. Users may experience significant tiredness or lethargy, which can affect daily activities. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>Drowsiness and fatigue are common side effects. Users may experience significant tiredness or lethargy, which can affect daily activities. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -227,7 +227,7 @@
         </div>
         <div class="service-desc">
           <h3>Respiratory Depression</h3>
-          <p>In severe cases, painkillers may lead to respiratory depression, causing shallow or slowed breathing, which requires careful monitoring. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>In severe cases, painkillers may lead to respiratory depression, causing shallow or slowed breathing, which requires careful monitoring. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -236,7 +236,7 @@
         </div>
         <div class="service-desc">
           <h3>Nausea and Digestive Issues</h3>
-          <p>Nausea, vomiting, stomach pain and constipation are possible side effects. Users may also experience a loss of appetite or digestive discomfort. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>Nausea, vomiting, stomach pain and constipation are possible side effects. Users may also experience a loss of appetite or digestive discomfort. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -245,7 +245,7 @@
         </div>
         <div class="service-desc">
           <h3>Allergic Skin Reaction on Body</h3>
-          <p>Some pain medications can cause rare but serious skin reactions, including skin reddening, blisters, and separation of the skin's upper layers. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>Some pain medications can cause rare but serious skin reactions, including skin reddening, blisters, and separation of the skin's upper layers. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
     </div>
@@ -269,12 +269,12 @@
             <div class="content">
               <h4>Reasons for Restrictions</h4>
               <ul>
-              <li><strong>Potential for Overdose:</strong> Certain painkillers, especially those with high potency, pose a significant risk of overdose. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>Interactions with Other Medications:</strong> Painkillers can interact adversely with other medications, leading to dangerous side effects. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>Impact on Mental Health:</strong> Some painkillers can affect mood and mental health, potentially leading to depression. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>Potential for Illicit Use:</strong> Certain painkillers are commonly diverted for illicit use, contributing to the risk of public health crises. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>Lack of Long-Term Safety Data:</strong> For some painkillers, there may be insufficient data on long-term safety and efficacy. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>High Risk of Habit Formation:</strong> Some painkillers have a high risk of habit formation, resulting in users becoming reliant. <a href="tel:+18557616800">Know More</a></li>
+              <li><strong>Potential for Overdose:</strong> Certain painkillers, especially those with high potency, pose a significant risk of overdose. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>Interactions with Other Medications:</strong> Painkillers can interact adversely with other medications, leading to dangerous side effects. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>Impact on Mental Health:</strong> Some painkillers can affect mood and mental health, potentially leading to depression. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>Potential for Illicit Use:</strong> Certain painkillers are commonly diverted for illicit use, contributing to the risk of public health crises. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>Lack of Long-Term Safety Data:</strong> For some painkillers, there may be insufficient data on long-term safety and efficacy. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>High Risk of Habit Formation:</strong> Some painkillers have a high risk of habit formation, resulting in users becoming reliant. <a href="tel:+18084284752">Know More</a></li>
               
               </ul>
             </div>
@@ -299,7 +299,7 @@
             <p style="font-size:18px;">Consult with a healthcare professional to assess your needs and obtain a prescription if necessary. If you have questions about accessing these medications, our team is here to assist you.</p>
             <p style="font-size:18px;">For personalized support and information on how to obtain pain medications legally and safely, contact us.</p>
             <p style="font-size:18px;"><strong>Contact Us:</strong><br>
-              Call us at <strong><a href="tel:+18557616800" style="color:white;">+1 (855) 761 6800</a></strong> for detailed guidance and support regarding pain management options.
+              Call us at <strong><a href="tel:+18084284752" style="color:white;">+1 (855) 761 6800</a></strong> for detailed guidance and support regarding pain management options.
             </p>
           </div>
         </div>
