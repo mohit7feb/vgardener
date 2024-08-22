@@ -114,7 +114,7 @@
           </div>
             <!-- <p>Understanding pain management and its impact on overall well-being.<br>
               Explore strategies to manage pain effectively and live comfortably.</p> -->
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="text-transform:none; border-radius:10px;">Consult Now</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="text-transform:none; border-radius:10px;">Consult Now</a>
               </div>
         </div>
       </div>
@@ -132,14 +132,14 @@
         <hr>
           <p>There are several types of anti-anxiety medications that work in different ways to help with anxiety disorders:</p>
           <ul>
-            <li><strong>Benzodiazepines:</strong> Also known as sedatives, these medications increase the activity of gamma-aminobutyric acid (GABA), a chemical in the brain that helps you feel calm. <a href="tel:+18557616800">Know More</a></li><br>
-            <li><strong>SSRIs:</strong> These medications increase the amount of serotonin in your brain by preventing it from being reabsorbed into nerve cells. Higher levels of serotonin can help reduce anxiety symptoms. <a href="tel:+18557616800">Know More</a></li><br>
-            <li><strong>SNRIs:</strong> These medications work similarly to SSRIs, but they also increase norepinephrine levels in the brain. Having more serotonin and norepinephrine in the brain can improve mood symptoms related to anxiety by promoting communication between neurons. <a href="tel:+18557616800">Know More</a></li><br>
-            <!-- <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18557616800">Learn More</a></li><br>
-            <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18557616800">Learn More</a></li><br>
-            <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18557616800">Learn More</a></li> -->
+            <li><strong>Benzodiazepines:</strong> Also known as sedatives, these medications increase the activity of gamma-aminobutyric acid (GABA), a chemical in the brain that helps you feel calm. <a href="tel:+18084284752">Know More</a></li><br>
+            <li><strong>SSRIs:</strong> These medications increase the amount of serotonin in your brain by preventing it from being reabsorbed into nerve cells. Higher levels of serotonin can help reduce anxiety symptoms. <a href="tel:+18084284752">Know More</a></li><br>
+            <li><strong>SNRIs:</strong> These medications work similarly to SSRIs, but they also increase norepinephrine levels in the brain. Having more serotonin and norepinephrine in the brain can improve mood symptoms related to anxiety by promoting communication between neurons. <a href="tel:+18084284752">Know More</a></li><br>
+            <!-- <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18084284752">Learn More</a></li><br>
+            <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18084284752">Learn More</a></li><br>
+            <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18084284752">Learn More</a></li> -->
             <div class="button-container" style="margin-top: 20px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
             </div>
           </ul>
         </div>
@@ -153,11 +153,11 @@
 
               
             <!-- <div class="button-container" style="margin-top: 20px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Know More</a>
             </div> -->
         </div>
         <div class="button-container" style="margin-top: 42px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Consult Now</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Consult Now</a>
             </div>
       </div>
     </div>
@@ -172,7 +172,7 @@
       <p>Managing stress and anxiety is crucial for maintaining a balanced and healthy lifestyle. Here are some tips to help you stay healthy and stress-free:</p>
     </div>
     <div class="button-container" style="margin-top: 20px; margin-bottom: 30px; text-align:center;">
-              <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Learn More</a>
+              <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">Learn More</a>
             </div>
     <div class="row">
       <div class="col-sm-12">
@@ -185,14 +185,14 @@
             <div class="content">
               <!-- <h4>Reasons for Restrictions</h4> -->
               <ul>
-                <li><strong>Practice Mindfulness:</strong> Mindfulness involves staying present in the moment and focusing on your breath, thoughts, and surroundings. Meditation can calm the mind, reduce anxiety, and improve mental clarity. Even just a few minutes a day can make a significant difference. <a href="tel:+18557616800">Learn More</a></li><br>
-                <li><strong>Exercise Regularly:</strong> Physical activity is a natural stress reliever. Regular exercise releases endorphins, which are chemicals in the brain that act as natural painkillers and mood elevators. Whether it's a brisk walk, yoga, or a full workout session, staying active helps reduce anxiety. <a href="tel:+18557616800">Learn More</a></li><br>
-                <li><strong>Balanced Diet:</strong> What you eat affects how you feel. A balanced diet rich in fruits, vegetables, whole grains, and lean proteins can support your mood and energy levels. Avoid excessive caffeine, alcohol, and sugary foods, as they can increase anxiety. <a href="tel:+18557616800">Learn More</a></li><br>
-                <!-- <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18557616800">Learn More</a></li><br> -->
-                <!-- <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18557616800">Learn More</a></li><br> -->
-                <!-- <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18557616800">Learn More</a></li> -->
+                <li><strong>Practice Mindfulness:</strong> Mindfulness involves staying present in the moment and focusing on your breath, thoughts, and surroundings. Meditation can calm the mind, reduce anxiety, and improve mental clarity. Even just a few minutes a day can make a significant difference. <a href="tel:+18084284752">Learn More</a></li><br>
+                <li><strong>Exercise Regularly:</strong> Physical activity is a natural stress reliever. Regular exercise releases endorphins, which are chemicals in the brain that act as natural painkillers and mood elevators. Whether it's a brisk walk, yoga, or a full workout session, staying active helps reduce anxiety. <a href="tel:+18084284752">Learn More</a></li><br>
+                <li><strong>Balanced Diet:</strong> What you eat affects how you feel. A balanced diet rich in fruits, vegetables, whole grains, and lean proteins can support your mood and energy levels. Avoid excessive caffeine, alcohol, and sugary foods, as they can increase anxiety. <a href="tel:+18084284752">Learn More</a></li><br>
+                <!-- <li><strong>Take Breaks and Relax:</strong> It's essential to take time for yourself. Engage in hobbies, read, listen to music, or simply relax. Taking regular breaks from work and responsibilities helps refresh your mind. <a href="tel:+18084284752">Learn More</a></li><br> -->
+                <!-- <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18084284752">Learn More</a></li><br> -->
+                <!-- <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18084284752">Learn More</a></li> -->
                 <div class="button-container" style="margin-top: 20px; text-align:center;">
-                  <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">More Tips</a>
+                  <a href="tel:+18084284752" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">More Tips</a>
                 </div>
               </ul>
             </div>
@@ -218,7 +218,7 @@
         </div>
         <div class="service-desc">
           <h3>Drowsiness</h3>
-          <p>Side effect is dizziness. Users may feel unsteady or lightheaded, especially when standing up quickly. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>Side effect is dizziness. Users may feel unsteady or lightheaded, especially when standing up quickly. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -227,7 +227,7 @@
         </div>
         <div class="service-desc">
           <h3>Respiratory Issues</h3>
-          <p>In rare cases, these medications can cause respiratory depression, leading to shallow or slow breathing. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>In rare cases, these medications can cause respiratory depression, leading to shallow or slow breathing. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -236,7 +236,7 @@
         </div>
         <div class="service-desc">
           <h3>Physical Symptoms</h3>
-          <p>Physical side effects can include nausea, dry mouth, headaches, blurred vision, slurred speech, or muscle weakness. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>Physical side effects can include nausea, dry mouth, headaches, blurred vision, slurred speech, or muscle weakness. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -245,7 +245,7 @@
         </div>
         <div class="service-desc">
           <h3>Double Vision</h3>
-          <p>Causes an individual to see two images of a single object, which can be disorienting and impair daily activities. <strong><a href="tel:+18557616800" style="color:white;">Know More >></a></strong></p>
+          <p>Causes an individual to see two images of a single object, which can be disorienting and impair daily activities. <strong><a href="tel:+18084284752" style="color:white;">Know More >></a></strong></p>
         </div>
       </div>
     </div>
@@ -269,10 +269,10 @@
             <div class="content">
               <h4>Reasons for Restrictions</h4>
               <ul>
-                <li><strong>Risk of Abuse and Addiction:</strong> Some anxiety medications are classified as controlled substances because they have a high potential for abuse and addiction. Over time, users may develop a tolerance, requiring higher doses to achieve the same effect, leading to dependence and addiction. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>Severe Side Effects:</strong> The potential for severe side effects, such as respiratory depression, overdose, and even death, has led to the banning or strict regulation of certain anxiety pills. The risk increases when these medications are combined with other substances like alcohol or opioids. <a href="tel:+18557616800">know More</a></li><br>
-                <li><strong>Withdrawal Symptoms:</strong> Stopping these medications suddenly can lead to severe withdrawal symptoms, including rebound anxiety, seizures, and hallucinations. The difficulty in discontinuing use safely has contributed to the decision to ban these medications. <a href="tel:+18557616800">Know More</a></li><br>
-                <li><strong>Legal and Regulatory Concerns:</strong> The US government has implemented strict regulations to control the distribution and use of anxiety medications to protect public health. The banning of certain pills reflects the government's efforts to minimize the risk of abuse and ensure safe medical practices. <a href="tel:+18557616800">Know More</a></li>
+                <li><strong>Risk of Abuse and Addiction:</strong> Some anxiety medications are classified as controlled substances because they have a high potential for abuse and addiction. Over time, users may develop a tolerance, requiring higher doses to achieve the same effect, leading to dependence and addiction. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>Severe Side Effects:</strong> The potential for severe side effects, such as respiratory depression, overdose, and even death, has led to the banning or strict regulation of certain anxiety pills. The risk increases when these medications are combined with other substances like alcohol or opioids. <a href="tel:+18084284752">know More</a></li><br>
+                <li><strong>Withdrawal Symptoms:</strong> Stopping these medications suddenly can lead to severe withdrawal symptoms, including rebound anxiety, seizures, and hallucinations. The difficulty in discontinuing use safely has contributed to the decision to ban these medications. <a href="tel:+18084284752">Know More</a></li><br>
+                <li><strong>Legal and Regulatory Concerns:</strong> The US government has implemented strict regulations to control the distribution and use of anxiety medications to protect public health. The banning of certain pills reflects the government's efforts to minimize the risk of abuse and ensure safe medical practices. <a href="tel:+18084284752">Know More</a></li>
               </ul>
             </div>
           </div>
@@ -296,7 +296,7 @@
             <p style="font-size:18px;">To receive guidance on how to obtain these pills, it's crucial to consult with a healthcare professional who can assess your specific needs and provide a prescription if deemed necessary. However, if you're looking for more direct assistance or have questions about obtaining these medications, we're here to help.</p>
             <p style="font-size:18px;">Our knowledgeable team is ready to provide you with the information you need and guide you through the appropriate steps. Whether you need advice on the legal aspects or simply want to explore your options, don't hesitate to reach out.</p>
             <p style="font-size:18px;"><strong>Contact Us:</strong><br>
-              Call us at <strong><a href="tel:+18557616800" style="color:white;">+1 (855) 761 6800</a></strong> for personalized support and further details on how you can access these anxiety medications.
+              Call us at <strong><a href="tel:+18084284752" style="color:white;">+1 (855) 761 6800</a></strong> for personalized support and further details on how you can access these anxiety medications.
             </p>
           </div>
         </div>
