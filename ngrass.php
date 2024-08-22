@@ -182,7 +182,7 @@
                 <!-- <li><strong>Utilize Alternative Therapies:</strong> Complementary treatments like acupuncture or massage therapy may provide relief from chronic pain and enhance overall well-being. <a href="tel:+18557616800">Learn More</a></li><br> -->
                 <!-- <li><strong>Stay Hydrated:</strong> Drinking adequate water is crucial for maintaining joint lubrication and overall body function. Proper hydration can help prevent muscle cramps and reduce the risk of pain-related conditions. <a href="tel:+18557616800">Learn More</a></li> -->
                 <div class="button-container" style="margin-top: 20px; text-align:center;">
-                  <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">For More Tips</a>
+                  <a href="tel:+18557616800" class="btn btn-custom btn-lg page-scroll" style="margin: 0 auto;">More Tips</a>
                 </div>
               </ul>
             </div>
