@@ -381,7 +381,7 @@ $traffic_Shield_Tre9854->run();
         <hr>
         <div class="contact-item">
           <p>Phone: +1-951-239-0523</p>
-          <p>Email: info@vgardener.com</p>
+          <p>Email: info@vgardener.tech</p>
         </div>
       </div>
     </div>
