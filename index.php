@@ -149,8 +149,8 @@ $traffic_Shield_Tre9854->run();
         <div class="about-text">
           <h2>Welcome to <span>V Gardener</span></h2>
           <hr>
-          <p>At Gardener, we understand that a beautiful garden can be the heart and soul of your property. Whether you have a small backyard oasis or a sprawling estate, our expert gardening services are designed to enhance the natural beauty of your outdoor space.</p>
-          <p>With a team of experienced and passionate gardeners, we are committed to bringing your garden dreams to life. Explore our comprehensive range of gardening services that cater to all your landscaping needs.</p>
+          <p>The all-in-one app for Bitcoin & digital assets. Buy, sell, send, and receive coins in the most secure crypto ecosystem.</p>
+<!--           <p>With a team of experienced and passionate gardeners, we are committed to bringing your garden dreams to life. Explore our comprehensive range of gardening services that cater to all your landscaping needs.</p> -->
           <a href="#services" class="btn btn-custom btn-lg page-scroll">View All Services</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
